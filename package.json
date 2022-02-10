@@ -1,0 +1,22 @@
+{
+  "name": "cra-template-typescript-redux-router",
+  "version": "1.0.0",
+  "description": "Base typescript template for Create React App with Redux and React Router",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "react-router-dom",
+    "redux"
+  ],
+  "author": "",
+  "license": "MIT",
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "engines": {
+    "node": ">=14"
+  }
+}
